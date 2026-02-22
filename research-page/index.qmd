@@ -1,0 +1,44 @@
+---
+title: "Jesús Blanco Molina"
+---
+I am a B.Sc. Mathematics student and Cyber Defense Engineer based in Leipzig, Germany. My work combines statistical learning, time-series forecasting, and security-focused data analysis in large-scale distributed systems.
+
+## Research Interests
+
+::: {.columns}
+::: {.column width="50%"}
+- Statistical Learning Theory
+- Time Series Modeling
+- Stochastic Processes
+- Dynamical Systems
+- Control Theory
+:::
+
+::: {.column width="50%"}
+- Network Security
+- Wireless Networks
+- Distributed Systems
+- Cloud Computing
+- Symmetric Cryptography
+
+:::
+:::
+
+## Education
+
+**B.Sc. in Mathematics**, University of Granada, Spain (June 2026)
+
+**Erasmus Program**, TU Darmstadt, Germany (2021–2022)
+
+**Erasmus Program**, Roma Tre, Italy (2018–2019)
+
+## Work Experience
+
+**Cyber Defense Engineer**, Deutsche Telekom Security, Leipzig (2025–Present)
+
+**Junior Data Engineer**, Deutsche Telekom Technik, Leipzig (2023–2025)
+
+
+
+
+[CV (PDF)](assets/CV-online.pdf){target="_blank"}

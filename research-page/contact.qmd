@@ -1,0 +1,22 @@
+---
+title: "Contact"
+format: html
+---
+
+:::: {.columns}
+
+::: {.column width="270px"}
+Leipzig, Germany  
+
+[jblancof3@gmail.com](mailto:jblancof3@gmail.com)  
+
+[LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-blanco-7b0992153)  
+
+[GitHub](https://github.com/jblancof3)
+:::
+
+::: {.column width="auto"}
+![](assets/IMG_0713.jpeg){width="170" margin-left="8px"}
+:::
+
+:::: 

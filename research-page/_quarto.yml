@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Jesús B."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+
+
+execute:
+  freeze: auto
