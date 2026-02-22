@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Jesús B."
+  title: "Jesús Blanco"
   navbar:
     left:
       - href: index.qmd
