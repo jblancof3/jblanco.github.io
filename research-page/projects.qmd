@@ -6,7 +6,7 @@ title: "Projects"
 ### Bachelor Thesis
 **Time Series Predictive Modeling of 5G Core Traffic**  
 University of Granada, Dec. 2025  
-Grade 9.8/10
+Grade: 9.8/10
 
 ### Conference Paper
 **Extended analysis of forecasting methodology**  
