@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "Time Series Predictive Modeling of 5G Core Traffic\nUniversity of Granada, Dec. 2025"
+  },
+  {
+    "objectID": "projects.html#bachelor-thesis-grade-9.810",
+    "href": "projects.html#bachelor-thesis-grade-9.810",
+    "title": "Projects",
+    "section": "",
+    "text": "Time Series Predictive Modeling of 5G Core Traffic\nUniversity of Granada, Dec. 2025"
+  },
+  {
+    "objectID": "projects.html#conference-paper",
+    "href": "projects.html#conference-paper",
+    "title": "Projects",
+    "section": "Conference Paper",
+    "text": "Conference Paper\nExtended analysis of forecasting methodology\nIn preparation"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jesus Mausi",
+    "title": "Jesús Blanco Molina",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nprint(1 + 1)\n\n2"
+    "text": "I am a B.Sc. Mathematics student and Cyber Defense Engineer based in Leipzig, Germany. My work combines statistical learning, time-series forecasting, and security-focused data analysis in large-scale distributed systems."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Jesús Blanco Molina",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\n\nStatistical Learning Theory\nTime Series Modeling\nStochastic Processes\nDynamical Systems\nControl Theory\n\n\n\nNetwork Security\nWireless Networks\nDistributed Systems\nCloud Computing\nSymmetric Cryptography"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jesús Blanco Molina",
+    "section": "Education",
+    "text": "Education\nB.Sc. in Mathematics, University of Granada, Spain (June 2026).\nErasmus Program, TU Darmstadt, Germany (2021–2022).\nErasmus Program, Roma Tre, Italy (2018–2019)."
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Jesús Blanco Molina",
+    "section": "Work Experience",
+    "text": "Work Experience\nCyber Defense Engineer, Deutsche Telekom Security, Leipzig (2025–Present).\nJunior Data Engineer, Deutsche Telekom Technik, Leipzig (2023–2025).\nCV (PDF)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Leipzig, Germany\njblancof3@gmail.com\nLinkedIn\nGitHub"
   }
 ]
