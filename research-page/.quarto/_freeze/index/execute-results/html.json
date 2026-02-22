@@ -1,0 +1,12 @@
+{
+  "hash": "2d3ec733a17b63d0bb3f5b709756965c",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Jesús Blanco Molina\"\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n::: {#bbb7eb0f .cell execution_count=1}\n``` {.python .cell-code}\nprint(1 + 1)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n2\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files/figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
