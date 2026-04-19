@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Leipzig, Germany\njblancof3@gmail.com\nLinkedIn\nGitHub"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -18,7 +25,7 @@
     "href": "index.html",
     "title": "Jesús Blanco Molina",
     "section": "",
-    "text": "I am a B.Sc. Mathematics student and Cyber Defense Engineer based in Leipzig, Germany. My work combines statistical learning, time-series forecasting, and security-focused data analysis in large-scale distributed systems."
+    "text": "I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My work combines statistical learning, time-series forecasting, and security-focused data analysis in large-scale distributed systems."
   },
   {
     "objectID": "index.html#research-interests",
@@ -40,12 +47,5 @@
     "title": "Jesús Blanco Molina",
     "section": "Work Experience",
     "text": "Work Experience\nCyber Defense Engineer, Deutsche Telekom Security, Leipzig (2025–Present).\nJunior Data Engineer, Deutsche Telekom Technik, Leipzig (2023–2025).\nCV (PDF)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Leipzig, Germany\njblancof3@gmail.com\nLinkedIn\nGitHub"
   }
 ]
