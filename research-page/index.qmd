@@ -8,15 +8,14 @@ I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My wo
 ::: {.columns}
 ::: {.column width="50%"}
 - Statistical Learning Theory
+- Causality
 - Time Series Modeling
-- Stochastic Processes
 - Dynamical Systems
 - Control Theory
 :::
 
 ::: {.column width="50%"}
 - Network Security
-- Wireless Networks
 - Distributed Systems
 - Cloud Computing
 - Symmetric Cryptography
@@ -25,12 +24,13 @@ I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My wo
 :::
 
 ## Education
+**M.Sc. Mathematik**, Technische Universität Berlin (Present).
 
-**B.Sc. in Mathematics**, University of Granada, Spain (June 2026).
+**B.Sc. in Mathematics**, University of Granada, Spain (2026).
 
-**Erasmus Program**, TU Darmstadt, Germany (2021–2022).
+**Erasmus Program**, TU Darmstadt, Germany (2022).
 
-**Erasmus Program**, Roma Tre, Italy (2018–2019).
+**Erasmus Program**, Roma Tre, Italy (2019).
 
 ## Work Experience
 
