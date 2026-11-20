@@ -8,7 +8,7 @@ I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My wo
 ::: {.columns}
 ::: {.column width="50%"}
 - Statistical Learning Theory
-- Causality
+- Causality & Explainable AI
 - Time Series Modeling
 - Dynamical Systems
 - Control Theory
@@ -18,7 +18,7 @@ I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My wo
 - Network Security
 - Distributed Systems
 - Cloud Computing
-- Symmetric Cryptography
+- Threat Detection
 
 :::
 :::
@@ -36,7 +36,7 @@ I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My wo
 
 **Cyber Defense Engineer**, Deutsche Telekom Security, Leipzig (2025–Present).
 
-**Junior Data Engineer**, Deutsche Telekom Technik, Leipzig (2023–2025).
+**Data Engineer**, Deutsche Telekom Technik, Leipzig (2023–2025).
 
 
 
