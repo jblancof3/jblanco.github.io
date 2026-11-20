@@ -1,8 +1,7 @@
 ---
 title: "Jesús Blanco Molina"
 ---
-I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My work combines statistical learning, time-series forecasting, and security-focused data analysis in large-scale distributed systems.
-
+I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My work combines statistical learning, time-series forecasting, and security-focused data analysis in large-scale distributed systems. I'm currently pursuing my master's studies at TU Berlin.
 ## Research Interests
 
 ::: {.columns}
