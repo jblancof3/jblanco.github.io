@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Time Series Predictive Modeling of 5G Core Traffic\nUniversity of Granada, Dec. 2025\nGrade: 9.8/10"
-  },
-  {
-    "objectID": "projects.html#time-series-modeling-of-5g-core-traffic",
-    "href": "projects.html#time-series-modeling-of-5g-core-traffic",
-    "title": "Projects",
-    "section": "",
-    "text": "Time Series Predictive Modeling of 5G Core Traffic\nUniversity of Granada, Dec. 2025\nGrade: 9.8/10"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Leipzig, Germany\njblancof3@gmail.com\nLinkedIn\nGitHub"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jesús Blanco Molina",
@@ -32,7 +11,7 @@
     "href": "index.html#research-interests",
     "title": "Jesús Blanco Molina",
     "section": "Research Interests",
-    "text": "Research Interests\n\n\n\nStatistical Learning Theory\nCausality & Explainable AI\nTime Series Modeling\nDynamical Systems\nControl Theory\n\n\n\nNetwork Security\nDistributed Systems\nCloud Computing\nThreat Detection"
+    "text": "Research Interests\n\n\n\nStatistical Learning Theory\nCausality & Explainable AI\nTime Series Modeling\nControl Theory\n\n\n\nNetwork Security\nDistributed Systems\nCloud Computing\nThreat Detection"
   },
   {
     "objectID": "index.html#education",
@@ -47,5 +26,26 @@
     "title": "Jesús Blanco Molina",
     "section": "Work Experience",
     "text": "Work Experience\nCyber Defense Engineer, Deutsche Telekom Security, Leipzig (2025–Present).\nData Engineer, Deutsche Telekom Technik, Leipzig (2023–2025).\nCV (PDF)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Leipzig, Germany\njblancof3@gmail.com\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Time Series Predictive Modeling of 5G Core Traffic\nUniversity of Granada, Dec. 2025\nGrade: 9.8/10"
+  },
+  {
+    "objectID": "projects.html#time-series-modeling-of-5g-core-traffic",
+    "href": "projects.html#time-series-modeling-of-5g-core-traffic",
+    "title": "Projects",
+    "section": "",
+    "text": "Time Series Predictive Modeling of 5G Core Traffic\nUniversity of Granada, Dec. 2025\nGrade: 9.8/10"
   }
 ]
