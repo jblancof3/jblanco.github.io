@@ -10,7 +10,6 @@ I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My wo
 - Statistical Learning Theory
 - Causality & Explainable AI
 - Time Series Modeling
-- Dynamical Systems
 - Control Theory
 :::
 
