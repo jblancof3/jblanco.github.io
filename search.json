@@ -25,7 +25,14 @@
     "href": "index.html",
     "title": "Jesús Blanco Molina",
     "section": "",
-    "text": "I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My work combines statistical learning, time-series forecasting, and security-focused data analysis in large-scale distributed systems. I’m currently pursuing my master’s studies at TU Berlin. ## Research Interests"
+    "text": "I am a Mathematician and Cyber Defense Engineer based in Leipzig, Germany. My work combines statistical learning, time-series forecasting, and security-focused data analysis in large-scale distributed systems. I’m currently pursuing my master’s studies at TU Berlin."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Jesús Blanco Molina",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\n\nStatistical Learning Theory\nCausality & Explainable AI\nTime Series Modeling\nDynamical Systems\nControl Theory\n\n\n\nNetwork Security\nDistributed Systems\nCloud Computing\nThreat Detection"
   },
   {
     "objectID": "index.html#education",
